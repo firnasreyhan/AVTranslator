@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3304821431",
+    "firebase_url": "https://avtranslator-rey.firebaseio.com",
+    "project_id": "avtranslator-rey",
+    "storage_bucket": "avtranslator-rey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3304821431:android:75e96c4b5ed78df4253332",
+        "android_client_info": {
+          "package_name": "com.andorid.avtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3304821431-aipg9ik53vr479jigghe54f35n11vuct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andorid.avtranslator",
+            "certificate_hash": "6c13f68d06f9ea656e282421cbef6ae0e43764a1"
+          }
+        },
+        {
+          "client_id": "3304821431-m3bomt7kn4dgldbovh1fk470ci1vuvh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoOSE1bg_0Qms8-7ThDtTVCIkbnj58zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3304821431-m3bomt7kn4dgldbovh1fk470ci1vuvh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
